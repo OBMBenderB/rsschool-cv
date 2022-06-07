@@ -28,3 +28,14 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(3,5), 15);   
   });
 });
+```
+*********************
+##### Work experience:
+None
+*********************
+##### Education and courses:
+- CS50
+*********************
+Language:
+- Russian - Native
+- English - Intermediate
