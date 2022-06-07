@@ -1,1 +1,1 @@
-https://GITHUB-OBMBenderB.github.io/rsschool-cv/cv
+https://GITHUB-OBMBenderB.github.io/rsschool-cv/
