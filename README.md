@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GITHUB-OBMBenderB.github.io/rsschool-cv/cv
